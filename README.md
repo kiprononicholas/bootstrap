@@ -1,0 +1,1 @@
+This project is a web application built using Bootstrap, a powerful front-end framework for developing responsive and mobile-first websites. The project demonstrates how to use Bootstrap's components, grid system, and utilities to create a modern, user-friendly interface
